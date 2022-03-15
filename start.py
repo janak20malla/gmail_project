@@ -68,7 +68,7 @@ if __name__ == '__main__':
     print(type(msg_str))
     # msg_str = base64.urlsafe_b64decode(raw_content.encode('ASCII'))
     # # print(msg_str)
-
+    #print(" ")
     # mine_msg = email.message_from_bytes(msg_str)
 
     # print(mine_msg.get_payload())
